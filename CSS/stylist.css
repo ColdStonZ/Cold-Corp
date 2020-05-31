@@ -86,7 +86,7 @@ h3:hover {color:#ff5200; }
 .bt-sty1 {margin:0 5px 50px 5px; color:#fc8210; outline-color:#fc8210; border-color:#fc8210; }
 .bt-sty1:hover {margin:0 5px 50px 5px; background-color:#fc8210; color:#ffff; border-color:#fc8210; }
 
-#footer {padding:7% 15%; background-color:#fc8210; text-align:center; color:#ffff; }
-.f1 {margin:20px 15px; color:#ffff;}
-.f1:hover {margin:20px 15px; color:#e4e4e4; font-size: 130%; transition-timing-function:ease-in-out; transition-delay:0.3s; }
+#footer {padding:5% 15%; background-color:#fc8210; text-align:center; color:#ffff; }
+.f1 {margin:10px 15px; color:#ffff;}
+.f1:hover {margin:10px 15px; color:#e4e4e4; font-size: 130%; transition-timing-function:ease-in-out; transition-delay:0.3s; }
 .f2 {margin-top:20px;}
